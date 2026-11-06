@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Third Lever Games logo</title><desc id="desc">Three mechanical levers; the third is set highest.</desc>
+<rect x="6" y="6" width="148" height="148" rx="24" stroke="#cbb990" stroke-width="2.5"/>
+<path d="M28 126H132" stroke="#cbb990" stroke-width="4" stroke-linecap="round"/>
+<path d="M43 125V81M80 125V69M117 125V42" stroke="#cbb990" stroke-width="8" stroke-linecap="round"/>
+<path d="M35 93H51M72 81H88M109 54H125" stroke="#cbb990" stroke-width="3" stroke-linecap="round" opacity=".45"/>
+<rect x="30" y="66" width="26" height="18" rx="6" fill="#172126" stroke="#cbb990" stroke-width="3"/>
+<rect x="67" y="54" width="26" height="18" rx="6" fill="#172126" stroke="#cbb990" stroke-width="3"/>
+<rect x="104" y="27" width="26" height="18" rx="6" fill="#d8ad67" stroke="#e8ca8e" stroke-width="3"/>
+<path d="M43 100V117M80 88V117M117 61V117" stroke="#cbb990" stroke-width="2" opacity=".35"/>
+</svg>
